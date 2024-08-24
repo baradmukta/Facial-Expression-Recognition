@@ -7,10 +7,10 @@ The motivation behind this project stems from the growing need for automated sys
 Dataset Overview
   *  Dataset Composition: Contains images categorized into seven distinct emotion classes: angry, sad, happy, fear, neutral, disgust, and surprise.
   *  Emotion Classes:
-    *  Angry: Images depicting expressions of anger.
-    *  Sad: Images depicting expressions of sadness.
-    *  Happy: Images depicting expressions of happiness.
-    *  Fear: Images depicting expressions of fear.
-    *  Neutral: Images depicting neutral, non-expressive faces.
-    *  Disgust: Images depicting expressions of disgust.
-    *  Surprise: Images depicting expressions of surprise.
+     *  Angry: Images depicting expressions of anger.
+     *  Sad: Images depicting expressions of sadness.
+     *  Happy: Images depicting expressions of happiness.
+     *  Fear: Images depicting expressions of fear.
+     *  Neutral: Images depicting neutral, non-expressive faces.
+     *  Disgust: Images depicting expressions of disgust.
+     *  Surprise: Images depicting expressions of surprise.
